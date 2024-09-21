@@ -1,0 +1,3 @@
+[general]
+log_level = "DEBUG" # Может быть "DEBUG", "INFO", "WARN", "ERROR"
+log_type = "BOTH"   # Может быть "FILE", "STDERR" или "BOTH"
