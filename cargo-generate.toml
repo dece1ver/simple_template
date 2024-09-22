@@ -1,0 +1,4 @@
+[template]
+name = "Simple Rust Template"
+description = "Шаблон для проекта с файлом конфигурации, логами и обработкой ошибок"
+authors = ["dece1ver"]
